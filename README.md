@@ -5,7 +5,7 @@ He will create for you a video with this.
 https://github.com/techdye/Images-Video-Generator/releases/
 
 ## Installation
-Install python and launch the program with "python3 VideoCreator.py"
+Install python and launch the program with "python3 VideoCreator.py".
 He will create folders first.
 After you need to restart the program.
 
